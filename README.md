@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebo2022&show_icons=true&theme=radical&custom_title=Stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebo2022&show_icons=true&theme=dracula&custom_title=Stats)
