@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebo2022&show_icons=true&theme=radical)
+<div align="center">
+  <img width=550 title="Metrics" alt="Metrics" src="metrics.base.svg">
+</div>
  
  
  
